@@ -6,6 +6,7 @@ import { LoginComponent } from './login/login.component';
 import { AppRoutingModule } from '../app-routing.module';
 import { FormsModule } from '@angular/forms';
 import { RouterLinkActive } from '@angular/router';
+import { ActModule } from '../act/act.module';
 
 //AQUI SE AGREGA PORQUE ESTAMOS TRABAJANDO CON ESTE MODULO, SINO EN EL APP.MODULE
 //routes en app.routing.module.ts
