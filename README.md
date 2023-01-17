@@ -1,5 +1,15 @@
 # Taller16
 
+
+Reto:
+![captura de pantalla](./src/assets/reto.png)
+
+At. asíncrona
+![captura de pantalla](./src/assets/act1.png)
+![captura de pantalla](./src/assets/act2.png)
+
+
+
 Existen:
 - las rutas simples
 - las rutas con parámetros (en las que se agrega el parámetro al url /1234567(id) /q?=abc)
